@@ -1,3 +1,4 @@
+![Design and Development](https://github.com/AngieMve/AngieMve/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Angela Ribeiro</h1>
 <h3 align="center">Aspiring developer learning and growing with every commit.</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
